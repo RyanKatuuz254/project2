@@ -1,0 +1,16 @@
+.fom {
+    background-color: yellow;
+    padding:20px;
+
+    margin-top: 10px;
+    margin-bottom:10px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+input[type=text] {
+    width: 325px;
+}
+input{
+    length:280px;
+}

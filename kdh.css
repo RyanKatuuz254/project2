@@ -1,0 +1,14 @@
+table{
+    height: 300px;
+    width: 100%;
+    border: 3px solid #6b6b14;
+}
+table,th,td{
+    border: 3px solid #6b6b14;
+}
+th{
+    background-color: yellow;
+}
+.orange{
+    background-color: #73ff00;
+}

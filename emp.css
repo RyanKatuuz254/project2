@@ -1,0 +1,25 @@
+table{
+    height: 200px;
+    width: 90%;
+    border-collapse: collapse;
+}
+table,th,td{
+    border: 5px solid #ff0000;
+}
+th,td{
+    border-bottom: 1px solid black;
+}
+th{
+    background-color: #6fd21e;
+}
+tr:hover{
+    background-color: navy;
+}
+tr:nth-child(odd){
+    background-color: dodgerblue;
+}
+.oppo{
+    font-weight: bold;
+    font-size: 60px;
+    text-align: center;
+}

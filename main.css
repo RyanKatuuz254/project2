@@ -1,0 +1,17 @@
+table,th,td{
+    border: 1px solid green;
+    border-collapse: collapse;
+}
+table{
+    height: 300px;
+    width: 500px;
+    background: #0033ff;
+    margin-left: auto;
+    margin-right: auto;
+}
+th,td{
+    padding: 40px;
+}
+.row1{
+    background: darkolivegreen;
+}

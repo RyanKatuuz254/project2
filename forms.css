@@ -1,0 +1,22 @@
+.fom{
+    background-color: yellow;
+
+    padding: 30px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+
+}
+input{
+    float: left;
+    text-align: left;
+    width: 10px;
+}
+input{
+    float: left;
+}
+legend{
+    font-weight: bold;
+    font-size: 30px;
+}

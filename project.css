@@ -1,0 +1,13 @@
+.promo{
+    padding: 30px;
+    margin: 50px;
+}
+label{
+    float: left;
+    text-align: left;
+    width: 100px;
+}
+legend{
+    font-weight: bold;
+    font-size: 30px;
+}

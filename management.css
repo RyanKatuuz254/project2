@@ -1,0 +1,28 @@
+form{margin-right: 250px;
+    margin-top: 50px;
+    margin-bottom: 250px;
+    margin-left: 250px;
+    background-color: #da70bc;
+    padding: 50px;
+
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+}
+input[type=submit] {
+    background-color: #73ff00;
+    border-radius: 10px;
+
+}
+input[type=text]{
+    border-radius: 10px;
+}
+input[type=date]{
+    border-radius: 10px;
+}
+label{
+    width: 150px;
+    text-align: left;
+    float: left;
+}

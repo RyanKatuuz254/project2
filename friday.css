@@ -1,0 +1,20 @@
+p{
+    background-color: orange;
+    color: #14b7dc;
+    font-size: 30px;
+    font-style: italic;
+    font-weight: bolder;
+    text-indent: 10cm;
+    word-spacing: 2cm;
+    text-decoration: underline;
+    line-height: 1cm;
+    border: 5px solid black;
+    outline: 5px solid mediumorchid;
+}
+ul{
+    list-style-type: square;
+    list-style-position: outside;
+}
+
+
+}

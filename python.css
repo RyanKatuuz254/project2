@@ -1,0 +1,22 @@
+form{
+    background-color: yellow;
+    padding: 30px;
+    margin: 80px;
+}
+input[type=text],input[type
+=password] {
+width: 100%;
+border: 1px solid crimson;
+box-shadow: 4px 3px 5px 5px;color: orchid;
+height: 30px;
+border-radius: 10px;
+}
+input[type=submit]{
+    width: 100%;
+    border-radius: 10px;
+    height: 30px;
+    background-color: navy;
+}
+input[type=submit]:hover{
+    background-color: #2e008b;
+}

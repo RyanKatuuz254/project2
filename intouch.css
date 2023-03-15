@@ -1,0 +1,27 @@
+form {
+    background-color: #0f2c52;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-bottom: 300px;
+    margin-top: 30px;
+    padding: 20px;
+
+}
+input[type=submit]{
+    background-color: #73ff00;
+    color: #ff2f00;
+    border-radius: 20px;
+}
+input[type=text]{
+    border-radius: 20px;
+
+
+}
+input[type=email]{
+    border-radius: 20px;
+}
+
+
+
+
+
